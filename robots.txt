@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-7017ci.infinity-qr.it/sitemap.xml
